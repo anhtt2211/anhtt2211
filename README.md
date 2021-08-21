@@ -1,7 +1,11 @@
 ### Hi there 👋, I'm The Anh
 I always learn and develop my skills. I love a professional environment also I am passionate about creating great products.
 
-Skills: React / Redux / HTML/ CSS / C#
+:sunrise_over_mountains: **Skills**
+
+* **Tech**: C# (.NET, WPF) | HTML5, CSS3, JavaScript, ReactJS | SQL Server, Firebase | Git, OOP
+* **Core**: English Manipulation, Data Structures, Algorithms, Problem Solving & Logical Thinking
+* **Soft**: Project Management, Self-Learning & Self-Motivation, Teamwork
 
 - 🔭 I’m student at [University of Information Technology - VNUHCM](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
 - 🌱 I’m currently learning and practicing Software Development 
