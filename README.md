@@ -3,8 +3,6 @@ I used NodeJS, NestJS, TypeORM, Express, PostgresQL to develop back-end and Reac
 
 I'm currently looking for a challenging full-stack engineer role that will allow me to continue growing my skills and knowledge in this field.
 
-- 🔭 I’m student at [University of Information Technology - VNUHCM](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology) 
-
 :sunrise_over_mountains: **Skills**
 
 * **Tech**: NodeJS, NestJS, TypeORM, CQRS Pattern, RabbitMQ, Postgresql, ReactJS, Redux, Redux-Saga, TailwindCSS
