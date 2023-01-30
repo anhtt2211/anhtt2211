@@ -1,12 +1,13 @@
-### Hi there 👋, I'm The Anh
-I always learn and develop my skills. I love a professional environment also I am passionate about creating great products.
+### Hi! I'm Tran The Anh, I’m a full-stack engineer developing both front-end and back-end.
+I used NodeJS, NestJS, TypeORM, Express, PostgresQL to develop back-end and ReactJS, NextJS, Redux, ReduxSaga to develop front-end.
 
-- 🔭 I’m student at [University of Information Technology - VNUHCM](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
-- 🌱 I’m currently learning and practicing Software Development 
+I'm currently looking for a challenging full-stack engineer role that will allow me to continue growing my skills and knowledge in this field.
+
+- 🔭 I’m student at [University of Information Technology - VNUHCM](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology) 
 
 :sunrise_over_mountains: **Skills**
 
-* **Tech**: C# (.NET, WPF) | HTML5, CSS3, JavaScript, ReactJS | SQL Server, Firebase | Git, OOP
+* **Tech**: NodeJS, NestJS, TypeORM, CQRS Pattern, RabbitMQ, Postgresql, ReactJS, Redux, Redux-Saga, TailwindCSS
 * **Core**: English Manipulation, Data Structures, Algorithms, Problem Solving & Logical Thinking
 * **Soft**: Project Management, Self-Learning & Self-Motivation, Teamwork
 
